@@ -1,0 +1,2504 @@
+{
+  "consumptionHistory": [
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-18",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-18",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-17",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-18",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-19",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-24",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-16",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-22",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-25",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-21",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-20",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-19",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-20",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-23",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-19",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-25",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-16",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-23",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-19",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-23",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-18",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-18",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-18",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-18",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-24",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-23",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-22",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-17",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-21",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-21",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-17",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-24",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-21",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-17",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-17",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-23",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-17",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-18",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-23",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-25",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-21",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-24",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-21",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-17",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-20",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-25",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-19",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-20",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-25",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-21",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-16",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-24",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-23",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-25",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-23",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-18",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-25",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-21",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-24",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-24",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-19",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-22",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-17",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-19",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-18",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-25",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-16",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-22",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-23",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-17",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-19",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-16",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-20",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-23",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-16",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-21",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-21",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-23",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-20",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-22",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-18",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-20",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-18",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-23",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-24",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-19",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-17",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-25",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-25",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-16",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-19",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-18",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-20",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-25",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-20",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-23",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-20",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-16",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-25",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-19",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-23",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-22",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-16",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-17",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-21",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-25",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-18",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-25",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-25",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-16",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-19",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-19",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-17",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-19",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-19",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-24",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-17",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-23",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-16",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-25",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-20",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-22",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-24",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-21",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-23",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-20",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-23",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-25",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-20",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-24",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-23",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-17",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-16",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-24",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-20",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-18",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-24",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-20",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-21",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-25",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-16",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-19",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-23",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-18",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-23",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-22",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-25",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-19",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-25",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-23",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-17",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-18",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-17",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-21",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-16",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-19",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-18",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-18",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-16",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-21",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-24",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-17",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-21",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-20",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-21",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-25",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-23",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-17",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-22",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-19",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-19",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-25",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-18",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-20",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-22",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-17",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-17",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-19",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-17",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-25",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-22",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-19",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-22",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-18",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-25",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-19",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-24",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-22",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-16",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-16",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-23",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-16",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-22",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-20",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-22",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-21",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-16",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-20",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-21",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-24",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-19",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-22",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-20",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-19",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-20",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-25",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-18",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-17",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-23",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-24",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-17",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-23",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-24",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-23",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-24",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-21",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-17",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-19",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-18",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-16",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-18",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-23",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-25",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-16",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-18",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-20",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-16",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-21",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-22",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-18",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-17",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-20",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-19",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-21",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-17",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-17",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-19",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-16",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-25",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-16",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-19",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-16",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-25",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-21",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-17",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-16",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-22",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-20",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-19",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-22",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-18",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-25",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-25",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-24",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-20",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-22",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-24",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-23",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-18",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-17",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-21",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-19",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-21",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-23",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-22",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-25",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-25",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-25",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-21",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-25",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-16",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-24",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-20",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-24",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-17",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-23",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-20",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-18",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-25",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-24",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-16",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-20",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-19",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-25",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-17",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-23",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-23",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-21",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-24",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-19",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-21",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-19",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-21",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-17",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-21",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-20",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-25",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-19",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-25",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-21",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-24",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-19",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-24",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-19",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-17",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-21",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-21",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-22",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-20",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-17",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-21",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-16",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-19",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-19",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-19",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-19",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-21",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-18",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-18",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-19",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-21",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-21",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-17",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-24",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-25",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-23",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-25",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-24",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-19",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-23",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-25",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-22",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-21",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-17",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-22",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-22",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-16",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-19",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-23",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-23",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-16",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-24",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-18",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-22",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-24",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-21",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-18",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-21",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-18",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-23",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-17",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-23",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-22",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-18",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-19",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-18",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-20",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-16",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-17",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-18",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-17",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-22",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-25",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-21",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-18",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-17",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-17",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-25",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-17",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-23",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-20",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-16",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-18",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-19",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-20",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-16",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-19",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-23",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-16",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-18",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-23",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-25",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-21",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-24",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-20",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-23",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-18",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-19",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-22",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-18",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-22",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-18",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-23",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-25",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-25",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-18",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-16",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Forklift Model G",
+      "date": "2024-02-20",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-19",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-20",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-23",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-25",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-16",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-16",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-25",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-16",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-18",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-23",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-16",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-25",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-19",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-18",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-19",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-20",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-17",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-22",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-22",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-16",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-19",
+      "consumedQuantity": 15
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-21",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-17",
+      "consumedQuantity": 11
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-22",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-25",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-24",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-22",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-20",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-20",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-20",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-17",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-25",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-25",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-19",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-23",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-25",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-20",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-24",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-25",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-19",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-19",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-16",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model F",
+      "date": "2024-02-25",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-17",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-21",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X6",
+      "date": "2024-02-19",
+      "consumedQuantity": 10
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-17",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-21",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-18",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-25",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-22",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-16",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-22",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-18",
+      "consumedQuantity": 14
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-21",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-24",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-20",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-18",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-22",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-17",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-16",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-19",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-24",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-17",
+      "consumedQuantity": 4
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-24",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-16",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-24",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-25",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-17",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-22",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-23",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-16",
+      "consumedQuantity": 13
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-24",
+      "consumedQuantity": 18
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-20",
+      "consumedQuantity": 12
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-16",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-22",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model B",
+      "date": "2024-02-24",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Pallet Jack X7",
+      "date": "2024-02-18",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-24",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-22",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-19",
+      "consumedQuantity": 8
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-18",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-20",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Pallet Jack X2",
+      "date": "2024-02-23",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X4",
+      "date": "2024-02-16",
+      "consumedQuantity": 19
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-19",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model D",
+      "date": "2024-02-20",
+      "consumedQuantity": 16
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-25",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-20",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X5",
+      "date": "2024-02-18",
+      "consumedQuantity": 5
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-20",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-19",
+      "consumedQuantity": 20
+    },
+    {
+      "item": "Forklift Model H",
+      "date": "2024-02-21",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-25",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Forklift Model I",
+      "date": "2024-02-25",
+      "consumedQuantity": 3
+    },
+    {
+      "item": "Forklift Model C",
+      "date": "2024-02-21",
+      "consumedQuantity": 6
+    },
+    {
+      "item": "Forklift Model E",
+      "date": "2024-02-16",
+      "consumedQuantity": 2
+    },
+    {
+      "item": "Pallet Jack X8",
+      "date": "2024-02-22",
+      "consumedQuantity": 17
+    },
+    {
+      "item": "Pallet Jack X9",
+      "date": "2024-02-19",
+      "consumedQuantity": 7
+    },
+    {
+      "item": "Pallet Jack X1",
+      "date": "2024-02-25",
+      "consumedQuantity": 9
+    },
+    {
+      "item": "Forklift Model A",
+      "date": "2024-02-17",
+      "consumedQuantity": 1
+    },
+    {
+      "item": "Pallet Jack X3",
+      "date": "2024-02-17",
+      "consumedQuantity": 16
+    }
+  ]
+}
