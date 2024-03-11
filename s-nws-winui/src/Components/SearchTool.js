@@ -1,14 +1,15 @@
 import React, {useState, useEffect} from 'react';
 
-const SearchTool = ({items, setItems}) => {
+const SearchTool = ({items, setItemsCallback}) => {
 	const [searchTerm, setSearchTerm] = useState('');
 	const [sortingCriteria, setSortingCriteria] = useState('default');
+	const [sortingOrder, setSortingOrder] = useState('ascending'); // New state for sorting order
 	const [filteredItems, setFilteredItems] = useState(items);
 
 	useEffect(() => {
-		// Apply sorting and filtering when criteria change
+		// Apply sorting and filtering when criteria or sorting order change
 		applySortingAndFiltering();
-	}, [sortingCriteria, searchTerm, items]);
+	}, [sortingCriteria, searchTerm, sortingOrder]);
 
 	const applySortingAndFiltering = () => {
 		// Filtering based on search term
@@ -16,16 +17,20 @@ const SearchTool = ({items, setItems}) => {
 
 		// Sorting
 		const sorted = [...filtered].sort((a, b) => {
+			let result = 0;
 			if (sortingCriteria === 'name') {
-				return a.name.localeCompare(b.name);
-			} else if (sortingCriteria === 'price') {
-				return a.price - b.price;
+				result = a.name.localeCompare(b.name);
+			} else if (sortingCriteria === 'quantity') {
+				result = a.quantity - b.quantity;
 			}
 			// Add more sorting criteria if needed
-			return 0;
+
+			// Adjust the result based on sorting order
+			return sortingOrder === 'ascending' ? result : -result;
 		});
 
 		setFilteredItems(sorted);
+		setItemsCallback(sorted);
 	};
 
 	const handleSearch = (e) => {
@@ -35,6 +40,11 @@ const SearchTool = ({items, setItems}) => {
 	const handleSortingChange = (e) => {
 		setSortingCriteria(e.target.value);
 	};
+
+	const handleSortingOrderChange = (order) => {
+		setSortingOrder(order);
+	};
+
 	return (
 		<div>
 			<input type="text" placeholder="Search..." value={searchTerm} onChange={handleSearch} />
@@ -42,9 +52,19 @@ const SearchTool = ({items, setItems}) => {
 			<select value={sortingCriteria} onChange={handleSortingChange}>
 				<option value="default">Default Sorting</option>
 				<option value="name">Sort by Name</option>
-				<option value="price">Sort by Price</option>
+				<option value="quantity">Sort by Quantity</option>
 				{/* Add more sorting options if needed */}
 			</select>
+
+			<label>
+				<input type="radio" name="sortingOrder" value="ascending" checked={sortingOrder === 'ascending'} onChange={() => handleSortingOrderChange('ascending')} />
+				Ascending
+			</label>
+
+			<label>
+				<input type="radio" name="sortingOrder" value="descending" checked={sortingOrder === 'descending'} onChange={() => handleSortingOrderChange('descending')} />
+				Descending
+			</label>
 		</div>
 	);
 };

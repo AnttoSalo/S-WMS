@@ -1,26 +1,35 @@
-// React component with Bootstrap
 import React from 'react';
 import {Table} from 'react-bootstrap';
 
-//Data destructured in a weird way? Maybe needs a fix
+const formatLabel = (label) => {
+	// Capitalize first letter and add space before each capital letter
+	return label.charAt(0).toUpperCase() + label.slice(1).replace(/([A-Z])/g, ' $1');
+};
+
 const GridComponent = ({items}) => {
+	// Check if there are any items in the array
+	if (items.length === 0) {
+		return <p>No items to display</p>;
+	}
+
+	// Extract the keys from the first item to use as formatted column headers
+	const columns = Object.keys(items[0]);
+
 	return (
 		<Table striped bordered hover>
 			<thead>
 				<tr>
-					<th>Name</th>
-					<th>Quantity</th>
-					<th>Last Order Date</th>
-					<th>Price</th>
+					{columns.map((column, index) => (
+						<th key={index}>{formatLabel(column)}</th>
+					))}
 				</tr>
 			</thead>
 			<tbody>
-				{items.map((item, index) => (
-					<tr key={index}>
-						<td>{item.name}</td>
-						<td>{item.unitWeight}</td>
-						<td>{item.lastOrderDate}</td>
-						<td>{item.quantity}</td>
+				{items.map((item, rowIndex) => (
+					<tr key={rowIndex}>
+						{columns.map((column, colIndex) => (
+							<td key={colIndex}>{item[column]}</td>
+						))}
 					</tr>
 				))}
 			</tbody>

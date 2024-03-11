@@ -5,11 +5,16 @@ import LayoutComponent from './LayoutComponent';
 import SearchTool from './SearchTool';
 const StockPage = () => {
 	const [items, setItems] = useState(data.warehouseBalances);
+	const updateItems = (updatedItems) => {
+		setItems(updatedItems);
+	};
 
 	return (
 		<LayoutComponent>
-			<SearchTool items={items} setItems={setItems}></SearchTool>
-			<div className="grid-container p-3 w-50">
+			<div className="p-3">
+				<SearchTool className="p-2" items={items} setItemsCallback={updateItems}></SearchTool>
+			</div>
+			<div className="grid-container p-3 w-80">
 				{/* Destructure the 'items' object to pass the array directly */}
 				<GridComponent items={items}></GridComponent>
 			</div>
