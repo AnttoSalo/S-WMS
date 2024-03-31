@@ -1,17 +1,23 @@
-// Controller function to handle POST request to create a new item
-const postStock = async (req, res) => {
-	const {name, quantity, price} = req.body;
+// Controller function to handle POST request for creating a new item
+const pool = require('../db.js');
+const test = async (req, res) => {
+	res.status(200).json({test: 'success'});
+};
 
-	// Insert query to add a new item to the database
+const createItem = async (req, res) => {
+	// Extract item data from the request body
+	const {name, item, quantity, unitWeight, supplier, lastOrderDate} = req.body;
+
+	// Define the SQL query to insert the item into the database
 	const insertQuery = `
-    INSERT INTO items (name, quantity, price)
-    VALUES ($1, $2, $3)
+    INSERT INTO balances (name, item, quantity, unit_weight, supplier, last_order_date)
+    VALUES ($1, $2, $3, $4, $5, $6)
     RETURNING *;
   `;
 
 	try {
 		// Execute the insert query with parameters
-		const {rows} = await pool.query(insertQuery, [name, quantity, price]);
+		const {rows} = await pool.query(insertQuery, [name, item, quantity, unitWeight, supplier, lastOrderDate]);
 
 		// Respond with the newly created item
 		res.status(201).json({success: true, data: rows[0]});
@@ -21,6 +27,8 @@ const postStock = async (req, res) => {
 	}
 };
 
+// Export the controller function
 module.exports = {
-	postStock
+	createItem,
+	test
 };

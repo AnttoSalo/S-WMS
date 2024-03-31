@@ -3,6 +3,8 @@ import GridComponent from './GridComponent';
 import data from '../mockdata.json';
 import LayoutComponent from './LayoutComponent';
 import SearchTool from './SearchTool';
+import {Button} from 'react-bootstrap';
+import postItem from '../ApiController';
 const StockPage = () => {
 	const [items, setItems] = useState(data.warehouseBalances);
 	const [visibleItems, setVisibleItems] = useState(data.warehouseBalances);
@@ -20,6 +22,7 @@ const StockPage = () => {
 				{/* Destructure the 'items' object to pass the array directly */}
 				<GridComponent items={visibleItems}></GridComponent>
 			</div>
+			<Button onClick={postItem}>TEST</Button>
 		</LayoutComponent>
 	);
 };
