@@ -5,8 +5,10 @@ import LayoutComponent from './LayoutComponent';
 import SearchTool from './SearchTool';
 const StockPage = () => {
 	const [items, setItems] = useState(data.warehouseBalances);
+	const [visibleItems, setVisibleItems] = useState(data.warehouseBalances);
+
 	const updateItems = (updatedItems) => {
-		setItems(updatedItems);
+		setVisibleItems(updatedItems);
 	};
 
 	return (
@@ -16,7 +18,7 @@ const StockPage = () => {
 			</div>
 			<div className="grid-container p-3 w-80">
 				{/* Destructure the 'items' object to pass the array directly */}
-				<GridComponent items={items}></GridComponent>
+				<GridComponent items={visibleItems}></GridComponent>
 			</div>
 		</LayoutComponent>
 	);
